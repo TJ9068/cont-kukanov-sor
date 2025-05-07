@@ -52,11 +52,3 @@ In real markets, **displayed size does not guarantee immediate execution**. The 
 
 To improve realism:
 > Model **partial fills probabilistically** based on queue depth or latency-adjusted execution risk. For example, assign a decreasing execution probability to deeper queue positions or introduce a random fill/no-fill event based on current order book pressure.
-
-
-
-
-
-
-  "theta_queue": 0.001
-}
