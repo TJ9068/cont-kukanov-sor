@@ -46,7 +46,7 @@ All strategies were run over the same 9-minute window: **13:36:32–13:45:14 UTC
 - `results.png`: Cumulative cost over time (shares filled vs cost)
 - `results_avg_price.png`: Average fill price as a function of fill progression
 
-  ## Suggested Realism Improvement
+## Suggested Realism Improvement
 
 In real markets, **displayed size does not guarantee immediate execution**. The actual outcome depends on queue position, latency, and hidden order flow.
 
